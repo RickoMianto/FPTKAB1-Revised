@@ -1,6 +1,18 @@
-# FPTKAB1-Revised
+# Final Project
 
-# Sentiment Analysis
+## Teknologi Komputasi Awan
+
+### Kelas B
+
+#### Kelompok B1
+
+Nama | NRP
+---- | ----
+Daffa Rajendra Priyatama | 5027231009
+Muhammad Faqih Husain | 5027231023
+Ricko Mianto Jaya Saputra | 5027231031
+Nicholas Arya Krisnugroho Rerangin | 5027231058
+Benjamin Khawarismi Habibi | 5027231078
 
 ## Daftar Isi
 - [Final Project Overview](#final-project-overview)
