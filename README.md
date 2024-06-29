@@ -3,7 +3,7 @@
 # Aplikasi Analisis Sentimen
 
 ## Daftar Isi
-- [Pendahuluan](#pendahuluan)
+- [Final Project Overview](#final-project-overview)
 - [Arsitektur dan Spesifikasi VM](#arsitektur-dan-spesifikasi-vm)
 - [Implementasi dan Konfigurasi](#implementasi-dan-konfigurasi)
   - [Konfigurasi Worker](#konfigurasi-worker)
