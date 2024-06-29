@@ -15,7 +15,7 @@
 - [Hasil Pengujian Load](#hasil-pengujian-load)
 - [Revisi, Kesimpulan, dan Saran](#revisi-kesimpulan-dan-saran)
 
-## Pendahuluan
+## Final Project Overview
 Anda adalah seorang lulusan Teknologi Informasi dengan keahlian dalam merancang, membangun, dan mengelola aplikasi berbasis cloud. Dalam proyek ini, Anda ditugaskan untuk mendeploy aplikasi Analisis Sentimen menggunakan backend yang ditulis dalam Python (`sentiment-analysis.py`) dengan endpoint sebagai berikut:
 
 ### Endpoint
