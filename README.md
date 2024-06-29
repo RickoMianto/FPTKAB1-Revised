@@ -68,7 +68,7 @@ Setelah melakukan analisis secara menyeluruh dan mempertimbangkan aspek harga da
 3. Optimalisasi Performa Device: Berbeda dengan VM yang dapat membebani perangkat, Digital Ocean dirancang dengan mempertimbangkan efisiensi penggunaan sumber daya, sehingga meminimalisir dampak negatif terhadap performa device.
 
 * Berikut adalah rancangan arsitektur yang telah kami buat untuk final project kami
-![fptka2 (5)](https://github.com/RickoMianto/FPTKAB1-Revised/assets/150517828/487f44ad-e3c4-4182-b970-b11b91d836c5)
+![fptka2 (4)](https://github.com/RickoMianto/FPTKAB1-Revised/assets/150517828/a0c49c4a-ae0d-4bfb-9f25-88186fe36941)
 
 * Berikut adalah tabel harga dan spesifikasi VM yang kami gunakan
 ![fptka (1)](https://github.com/RickoMianto/FPTKAB1-Revised/assets/150517828/9d35bdf7-c4cd-4df2-994c-80fd0b5d7de9)
