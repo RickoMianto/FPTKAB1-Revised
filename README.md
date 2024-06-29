@@ -114,39 +114,6 @@ Setiap VM worker dikonfigurasi dengan:
     sudo systemctl restart nginx
     ```
 
-### Setup Database MongoDB
-1. Instal MongoDB:
-    ```bash
-    sudo apt-get install gnupg curl
-    curl -fsSL https://www.mongodb.org/static/pgp/server-7.0.asc | sudo gpg -o /usr/share/keyrings/mongodb-server-7.0.gpg --dearmor
-    echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-7.0.list
-    sudo apt-get update
-    sudo apt-get install -y mongodb-org
-    sudo systemctl enable mongod
-    sudo ufw allow 27017
-    ```
-
-### Setup Backend
-1. Instal dependensi Python:
-    ```bash
-    sudo apt-get update
-    sudo apt-get install python3-pip python3-venv
-    ```
-
-2. Setup virtual environment dan instal paket:
-    ```bash
-    cd fp-tka/Resources/BE
-    python3 -m venv venv
-    source venv/bin/activate
-    pip install flask flask-cors textblob pymongo gunicorn gevent
-    ```
-
-3. Ganti nama dan jalankan backend:
-    ```bash
-    mv sentiment-analysis.py sentiment_analysis.py
-    gunicorn -b 0.0.0.0:80 -w 5 -k gevent --timeout 60 --graceful-timeout 60 sentiment_analysis:app --daemon
-    ```
-
 ### Konfigurasi Load Balancer
 1. Instal dan konfigurasi Nginx:
     ```bash
