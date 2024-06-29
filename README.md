@@ -241,7 +241,7 @@ Setiap VM worker dikonfigurasi dengan:
 ## Pengujian Endpoint
 ### Pengujian dengan Rest Client
 - **Get All History**
-  ![History](link_gambar_di_sini)
+  ![Test End Point](https://github.com/RickoMianto/FPTKAB1-Revised/assets/149749135/7aeaf3bb-e6fa-4038-a070-390adab4d483)
 
 - **Create a New Text**
   ![New Text](link_gambar_di_sini)
