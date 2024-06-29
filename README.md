@@ -257,16 +257,16 @@ RPS maksimum yang dicapai selama stress testing adalah ~900-1000 RPS.
 
 ### Pengujian Peak Concurrency
 - **1000 Concurrency**
-  ![1000 Concurrency](![WhatsApp Image 2024-06-29 at 17 07 41_0f530fb3](https://github.com/RickoMianto/FPTKAB1-Revised/assets/88548292/65b9dba2-84bb-4111-b233-3d35488f59a1))
+  ![WhatsApp Image 2024-06-29 at 17 07 41_a551a50c](https://github.com/RickoMianto/FPTKAB1-Revised/assets/88548292/0f3acdd7-68e6-43f2-a80e-f45348f1f8d0)
 
 - **2000 Concurrency**
-  ![2000 Concurrency](link_gambar_di_sini)
+  ![WhatsApp Image 2024-06-29 at 17 11 06_b712b553](https://github.com/RickoMianto/FPTKAB1-Revised/assets/88548292/26ea91b8-00c4-4eac-8317-1ef089f19604)
 
 - **3000 Concurrency**
-  ![3000 Concurrency](link_gambar_di_sini)
+  ![WhatsApp Image 2024-06-29 at 17 16 10_95a14e26](https://github.com/RickoMianto/FPTKAB1-Revised/assets/88548292/fca47923-29d2-4f20-ad94-9adc5be5f5da)
 
 - **4000 Concurrency**
-  ![4000 Concurrency](link_gambar_di_sini)
+  ![WhatsApp Image 2024-06-29 at 17 20 00_990094d8](https://github.com/RickoMianto/FPTKAB1-Revised/assets/88548292/c0e7466d-5c6f-4660-98d2-b310c4f74134)
 
 ## Revisi, Kesimpulan, dan Saran
 ### Revisi
