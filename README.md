@@ -1,6 +1,6 @@
 # FPTKAB1-Revised
 
-# Aplikasi Analisis Sentimen
+# Sentiment Analysis
 
 ## Daftar Isi
 - [Final Project Overview](#final-project-overview)
