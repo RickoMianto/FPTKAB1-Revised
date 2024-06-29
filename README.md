@@ -73,10 +73,6 @@ Setelah melakukan analisis secara menyeluruh dan mempertimbangkan aspek harga da
 * Berikut adalah tabel harga dan spesifikasi VM yang kami gunakan
 ![fptka](https://github.com/RickoMianto/FPTKAB1/assets/150517828/55c5569d-756e-4557-a1ae-88b45a9e8686)
 
-- 3 VM x $21 = $63/bulan
-
-![Pratinjau Droplet](link_gambar_di_sini)
-
 ## Implementasi dan Konfigurasi
 Arsitektur terdiri dari 2 VM worker dan 1 VM load balancer.
 
